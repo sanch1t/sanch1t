@@ -1,6 +1,10 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="1280" height="720" />
 </div>
+
+## Socials 
+<div align="center">
+<a href="https://www.linkedin.com/in/sanchit-singh-a9116a21a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="basavbamrah" height="40" width="40" /></a>
 
 ---
 
@@ -8,10 +12,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
----
-
-### :man_technologist: Who I Am
-- :telescope: I’m working as a Fullstack developer, contributing to frontend and backend for building web applications.
+### :man_technologist: ME.
+- :telescope: I’m working as a Fullstack Developer, contributing to building web applications.
 
 - :seedling: Exploring CySec.
 
