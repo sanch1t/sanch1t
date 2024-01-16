@@ -7,7 +7,7 @@
 
 ## Connect 
 <div align="center">
-<a href="https://www.linkedin.com/in/sanchit-singh-a9116a21a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="basavbamrah" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanch1t/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="basavbamrah" height="60" width="60" /></a>
 
 ---
 ## :hammer_and_wrench: Tech Stack
@@ -49,3 +49,8 @@
 		</tr>
 	</table>
 </div>
+
+## Github Stats  
+
+![sanch1t's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanch1t&theme=ambient_gradient&hide_border=true)
+![sanch1t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanch1t&theme=ambient_gradient&show_icons=true&hide_border=true&layout=compact)
