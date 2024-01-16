@@ -1,24 +1,16 @@
+<h1 align="center">Hi 👋, I'm Sanchit.</h1>
+<h3 align="center">A Fullstack Developer and a prospective SOC Analyst.</h3>
+
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="1280" height="720" />
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="640" height="360" />
 </div>
 
-## Socials 
+## Connect 
 <div align="center">
 <a href="https://www.linkedin.com/in/sanchit-singh-a9116a21a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="basavbamrah" height="40" width="40" /></a>
 
 ---
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
-### :man_technologist: ME.
-- :telescope: I’m working as a Fullstack Developer, contributing to building web applications.
-
-- :seedling: Exploring CySec.
-
----
-### :hammer_and_wrench: Tech Stack
+## :hammer_and_wrench: Tech Stack
 <div align="center">
 	<table>
 		<tr>
@@ -49,11 +41,11 @@
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-      <td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/redux/redux.svg" alt="Redux" title="Redux"/></code></td>
+                        <td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/redux/redux.svg" alt="Redux" title="Redux"/></code></td>
 		</tr>
 		<tr>
-      <td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/netlify/netlify.svg" alt="Netlify" title="Netlify"/></code></td>
-      <td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vercel/vercel-light.svg" alt="Vercel" title="Vercel"/></code></td>
+			<td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/netlify/netlify.svg" alt="Netlify" title="Netlify"/></code></td>
+			<td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vercel/vercel-light.svg" alt="Vercel" title="Vercel"/></code></td>
 		</tr>
 	</table>
 </div>
