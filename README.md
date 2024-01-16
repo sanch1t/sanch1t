@@ -9,4 +9,4 @@
 
 - :seedling: Exploring CySec.
 
-- :mailbox:Reach Out: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sanchitsingh1503@gmail.com)
+- :mailbox:Reach Out: [![Gmail Badge][!LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
