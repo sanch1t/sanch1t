@@ -52,6 +52,6 @@
 
 ## Github Stats  
 
-![sanch1t's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanch1t&theme=ambient_gradient&hide_border=true)
+![sanch1t's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanch1t&theme=ambient_gradient&hide_border=true) <br/>
 ![sanch1t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanch1t&theme=ambient_gradient&show_icons=true&hide_border=true&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanch1t&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
