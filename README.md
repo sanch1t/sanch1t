@@ -41,7 +41,7 @@
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-                        <td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/redux/redux.svg" alt="Redux" title="Redux"/></code></td>
+                        <td><code><img width="50" src="https://github.com/get-icon/geticon/blob/master/icons/nodewebkit.svg" alt="Redux" title="Node WebKit"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/netlify/netlify.svg" alt="Netlify" title="Netlify"/></code></td>
