@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanchit.</h1>
+<h1 align="center">I'm Sanchit.</h1>
 <h3 align="center">A Fullstack Developer and a prospective SOC Analyst.</h3>
 
 <div id="header" align="center">
